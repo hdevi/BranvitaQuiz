@@ -1,0 +1,181 @@
+{
+  "types": [
+    {
+      "type_name": "Geography Quiz",
+      "questions_set": [
+        {
+          "id": "1",
+          "question": "Which is the tallest mountain in the world?",
+          "option_set": [
+            "Mt. Everest",
+            "Mt. Hood",
+            "Mt. Kilimanjaro",
+            "Mt. Fuji"
+          ],
+          "answer": "Mt. Everest"
+        },
+        {
+          "id": "2",
+          "question": "Which is the longest river in the world?",
+          "option_set": [
+            "Willamette river",
+            "Ganga",
+            "Nile",
+            "Thames"
+          ],
+          "answer": "Nile"
+        },
+        {
+          "id": "3",
+          "question": "Name the largest inland water body.",
+          "option_set": [
+            "Caspian Sea",
+            "Red Sea",
+            "Arabian Sea",
+            "Lake Baikal"
+          ],
+          "answer": "Caspian Sea"
+        },
+        {
+          "id": "4",
+          "question": "Name the smallest continent on the earth.",
+          "option_set": [
+            "Asia",
+            "Europe",
+            "Africa",
+            "Australia"
+          ],
+          "answer": "Australia"
+        },
+        {
+          "id": "5",
+          "question": "Name the largest country in the world.",
+          "option_set": [
+            "Russia",
+            "Canada",
+            "USA",
+            "India"
+          ],
+          "answer": "Russia"
+        },
+        {
+          "id": "6",
+          "question": "Which U.S. state is the Grand Canyon located in?",
+          "option_set": [
+            "New-Mexico",
+            "Arizona",
+            "Nevada",
+            "Wyoming"
+          ],
+          "answer": "Arizona"
+        },
+        {
+          "id": "7",
+          "question": "Which is the smallest country, measured by Total land Area?",
+          "option_set": [
+            "Maldives",
+            "Monaco",
+            "Tuvalu",
+            "Vatican City"
+          ],
+          "answer": "Vatican City"
+        },
+        {
+          "id": "8",
+          "question": "Between Which two country is the Bering Strait located?",
+          "option_set": [
+            "Alaska/Russia",
+            "Finland/Sweden",
+            "France/England",
+            "India/SriLanka"
+          ],
+          "answer": "Alaska/Russia"
+        },
+        {
+          "id": "9",
+          "question": "Which of these countries is NOT an island?",
+          "option_set": [
+            "Switzerland",
+            "Ireland",
+            "New Zealand",
+            "United Kingdom"
+          ],
+          "answer": "Switzerland"
+        }
+      ]
+    },
+
+    {
+      "type_name": "Politics Quiz",
+      "questions_set": [
+        {
+          "id": "1",
+          "question": "Who are the five permanent members of the UN Security Council?",
+          "option_set": [
+            "United States, Japan, United Kingdom, Germany, France",
+            "China, France, Russia, United Kingdom, United States",
+            "United States, France, Germany, India, Canada",
+            "Russia, United States, Germany,India, Japan"
+          ],
+          "answer": "China, France, Russia, United Kingdom, United States"
+        },
+        {
+          "id": "2",
+          "question": "Who was president of the United States during the (first, US-led Coalition against Iraq) Gulf War?",
+          "option_set": [
+            "George W. Bush",
+            "Ronald Reagan",
+            "Bill Clinton",
+            "George H. Bush"
+          ],
+          "answer": "George H. Bush"
+        },
+        {
+          "id": "3",
+          "question": "According to George W Bush, which three countries formed the Axis of Evil?",
+          "option_set": [
+            "China, Cuba and Iraq",
+            "South Korea, Iran and Syria",
+            "Iraq, Iran and North Korea",
+            "Iraq, Iran and France"
+          ],
+          "answer": "Iraq, Iran and North Korea"
+        },
+        {
+          "id": "4",
+          "question": "How many countries joined the European Union in 2004?",
+          "option_set": [
+            "two",
+            "five",
+            "eight ",
+            "ten"
+          ],
+          "answer": "ten"
+        },
+        {
+          "id": "6",
+          "question": "Which African country has the biggest economy?",
+          "option_set": [
+            "Nigeria",
+            "South Africa",
+            "India ",
+            "Egypt"
+          ],
+          "answer": "South Africa "
+        },
+        {
+          "id": "7",
+          "question": "Which Latin American country defaulted (failed to pay its debts) in 2001, provoking a severe economic crisis?",
+          "option_set": [
+            "Argentina",
+            "Brazil",
+            "Mexico ",
+            "Venezuela"
+          ],
+          "answer": "Argentina"
+        }
+      ]
+    }
+  ]
+}
+

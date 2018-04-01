@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">Brainvita Quiz</string>
+    <string name="home_name">Home Screen</string>
+    <string name="quiz_name">Quiz Screen</string>
+    <string name="cheat_name">Cheat Screen</string>
+    <string name="score_name">Score Screen</string>
+    <string name="title_cheat">Cheating is Bad</string>
+    <string name="warning">If You Cheat You will not succeed</string>
+    <string name="answer_button">Show answer</string>
+    <string name="judgement_toast">Cheating is wrong.</string>
+    <string name="correct_toast">Correct!!</string>
+    <string name="incorrect_toast">Incorrect!!</string>
+    <string name="statistics">Quiz Statistics:</string>
+    <string name="thanks_text">Thank you for taking this Quiz!!</string>
+    <string name="score_button">Show Score</string>
+
+</resources>
